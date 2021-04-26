@@ -2,4 +2,4 @@ import datetime
 
 dt = datetime.datetime.now()
 
-print(dt)
+print('Date and time now = {}'.format(dt))
