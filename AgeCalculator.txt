@@ -1,0 +1,6 @@
+The program 'AgeCalculator.py' calculates the age of a person.
+
+Prerequisites:
+- Enter a valid date, e.g. 24/4/1996
+Outcome:
+- Displays Age in years, e.g. 24 years
